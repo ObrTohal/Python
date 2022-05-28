@@ -10,7 +10,7 @@ numOfDay = int(input("Введите номер дня недели: "))
 while numOfDay < 1 or numOfDay > 7:
     print(f"Такого дня недели нету ({numOfDay})")
     numOfDay = int(input("Введите правильный номер дня недели: "))
-
+    
 if numOfDay>=6:
     print(f"{numOfDay}й день недели - выходной")
 elif numOfDay<=5:
