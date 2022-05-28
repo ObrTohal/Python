@@ -4,3 +4,7 @@
 
 # - пусть N = 4, тогда [ 1, 2, 6, 24 ] (1, 1*2, 1*2*3, 1*2*3*4)
 
+import math
+
+result2 = list(map(math.factorial,range(1,N+1)))
+print(result2)
