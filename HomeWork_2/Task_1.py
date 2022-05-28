@@ -6,5 +6,6 @@
 
 import math
 
+N = int(input("Введите число N: "))
 result2 = list(map(math.factorial,range(1,N+1)))
 print(result2)
