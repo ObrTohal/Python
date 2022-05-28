@@ -1,4 +1,3 @@
-# Python home work GeekBrains #
 ## Lesson 1. Introduction to Python. ##
 _____
 ### Task 1.
