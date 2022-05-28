@@ -1,5 +1,4 @@
-# Python home work GeekBrains #
-## Lesson 1. Introduction to Python. ##
+## Home Work 1. Introduction to Python. ##
 _____
 ### Task 1.
 Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
