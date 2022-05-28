@@ -15,6 +15,3 @@ def f(N):
     return result
 
 print(f(N))
-
-# result = list(map(f,range(1,N+1)))
-# print(result)
