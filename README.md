@@ -26,7 +26,7 @@ ___
 ### Task 3.
 Реализуйте алгоритм перемешивания списка.
 ___
-## ## Home Work 3. Data, functions and modules in Python ##
+## Home Work 3. Data, functions and modules in Python ##
 ### Task 1.
 Задайте список из нескольких чисел. Напишите программу, которая найдёт сумму элементов списка, стоящих на нечётной позиции.
 ___
