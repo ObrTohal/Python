@@ -9,4 +9,5 @@ def rand(min:int,max:int):
     randNum = (time.clock_gettime_ns(0) % (max+1-min)) + min
     return randNum
 
-print([rand(4,9) for _ in range(50)])
+min_max = input("Введите min и max через запятую: ").split(',')
+print(f"Случайные числа 100 повторений -->>\n{[rand(int(min_max[0]),int(min_max[1])) for _ in range(100)]}")
