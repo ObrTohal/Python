@@ -69,7 +69,7 @@ AAAAAAAAAAAABBBBBBBBBBBCCCCCCCCCCDDDDDDEEEEEFFFFG python is sooooooo coooooool\
 **сжатый текст.**
 
 **Вывод решения:** \
-test
-test.RLE
+test\
+test.RLE\
 test.decod
 ___
